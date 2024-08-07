@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/instaclone/static/css/main.86ec2560.css",
+    "main.js": "/instaclone/static/js/main.707caad1.js",
+    "static/js/453.f76b015e.chunk.js": "/instaclone/static/js/453.f76b015e.chunk.js",
+    "index.html": "/instaclone/index.html",
+    "main.86ec2560.css.map": "/instaclone/static/css/main.86ec2560.css.map",
+    "main.707caad1.js.map": "/instaclone/static/js/main.707caad1.js.map",
+    "453.f76b015e.chunk.js.map": "/instaclone/static/js/453.f76b015e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86ec2560.css",
+    "static/js/main.707caad1.js"
+  ]
+}
